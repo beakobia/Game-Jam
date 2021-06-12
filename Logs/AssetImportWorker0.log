@@ -658,3 +658,168 @@ Received Import Request.
 Start importing Assets/Scenes/Sprites/Right/Character.controller using Guid(8e1eb3562b51ea74399cde1b3e57d9f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba200707cc6fce823e4aa509b09666c2') in 0.063096 seconds
   Import took 0.072982 seconds .
 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002200 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1949 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.0 MB.
+System memory in use after: 93.0 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2426.
+Total: 2.833700 ms (FindLiveObjects: 0.270200 ms CreateObjectMapping: 0.142400 ms MarkObjects: 2.293400 ms  DeleteObjects: 0.126100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 305.738487 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0000.png
+  artifactKey: Guid(557c8d66e95cb54479e0d33f48a13230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0000.png using Guid(557c8d66e95cb54479e0d33f48a13230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59c9d89c5206e237f70b952782b888c3') in 0.101514 seconds
+  Import took 0.106329 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0001.png
+  artifactKey: Guid(d49b5588dd580824fb75a3ad303eded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0001.png using Guid(d49b5588dd580824fb75a3ad303eded3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b05fb91ea53ccb9e76e802839d80c8c') in 0.046112 seconds
+  Import took 0.051663 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0003.png
+  artifactKey: Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0003.png using Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac10a2fceb3f5912c77bbfed48869ef5') in 0.050840 seconds
+  Import took 0.062730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000348 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0002.png
+  artifactKey: Guid(ea342117cef921f4f87c452649ce65b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0002.png using Guid(ea342117cef921f4f87c452649ce65b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2722219d8f54b19eec7b72c86f125264') in 0.061840 seconds
+  Import took 0.068650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0005.png
+  artifactKey: Guid(bf9b3f7ea99d0f740bbc874eb6d9f5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0005.png using Guid(bf9b3f7ea99d0f740bbc874eb6d9f5ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '95e417d59343ff6405dec4eeda99133c') in 0.069051 seconds
+  Import took 0.079085 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000452 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0004.png
+  artifactKey: Guid(964e316cbf59d3a49a85cb3cb12cc04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0004.png using Guid(964e316cbf59d3a49a85cb3cb12cc04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5935bbdce91302f6f33600b2b3487c2') in 0.049924 seconds
+  Import took 0.059278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 97.987655 seconds.
+  path: Assets/Scenes/Sprites/Right/Character 1.controller
+  artifactKey: Guid(fab8585e411fd984ea71ad65470e68d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Right/Character 1.controller using Guid(fab8585e411fd984ea71ad65470e68d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590dd4eab616f249ab0d06a7b78c3c63') in 0.030676 seconds
+  Import took 0.047366 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000718 seconds.
+  path: Assets/Scenes/Sprites/Right/Character 1.controller
+  artifactKey: Guid(fab8585e411fd984ea71ad65470e68d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Right/Character 1.controller using Guid(fab8585e411fd984ea71ad65470e68d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '590dd4eab616f249ab0d06a7b78c3c63') in 0.015264 seconds
+  Import took 0.023904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.894328 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0002.png
+  artifactKey: Guid(ea342117cef921f4f87c452649ce65b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0002.png using Guid(ea342117cef921f4f87c452649ce65b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dc717def09bcc502277b78196d2f50f') in 0.049655 seconds
+  Import took 0.091741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0003.png
+  artifactKey: Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0003.png using Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05de3c15f773775a77b4a5452e0a70b4') in 0.060594 seconds
+  Import took 0.068621 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0004.png
+  artifactKey: Guid(964e316cbf59d3a49a85cb3cb12cc04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0004.png using Guid(964e316cbf59d3a49a85cb3cb12cc04a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09ef4a640456fd7018436f3a56817936') in 0.051323 seconds
+  Import took 0.056931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000329 seconds.
+  path: Assets/Scenes/Sprites/Timeline 1_0003.png
+  artifactKey: Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Timeline 1_0003.png using Guid(76128f5e3700e8245ab5ebe80f37362a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '05de3c15f773775a77b4a5452e0a70b4') in 0.049787 seconds
+  Import took 0.060689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 700.600020 seconds.
+  path: Assets/Scenes/Sprites/Left/Left.anim
+  artifactKey: Guid(78e31176dd0e5ae40a3b6ef50241e90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Left/Left.anim using Guid(78e31176dd0e5ae40a3b6ef50241e90d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0da5d43a62eb0e5a8aabc17c5822c290') in 0.010546 seconds
+  Import took 0.018468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1497.200105 seconds.
+  path: Assets/Scenes/Sprites/Perninhas_0000.png
+  artifactKey: Guid(b1d9fb8bc8a05524b8a77c3b3adcc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Perninhas_0000.png using Guid(b1d9fb8bc8a05524b8a77c3b3adcc2b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '055be91ce8c786613e32e1adf694f1a8') in 0.063113 seconds
+  Import took 0.074388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000457 seconds.
+  path: Assets/Scenes/Sprites/Perninhas_0001.png
+  artifactKey: Guid(2739853d3658b7344a5d315e9720e4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Perninhas_0001.png using Guid(2739853d3658b7344a5d315e9720e4fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ee2ed399f2d971cb13ce93487416449') in 0.182236 seconds
+  Import took 0.188945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000341 seconds.
+  path: Assets/Scenes/Sprites/Perninhas_0003.png
+  artifactKey: Guid(2c2fe91a7fe782745a4ad79d61c9ddaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Perninhas_0003.png using Guid(2c2fe91a7fe782745a4ad79d61c9ddaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a3966ae583a681513a1c3b9210f720f') in 0.126334 seconds
+  Import took 0.132252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000256 seconds.
+  path: Assets/Scenes/Sprites/Perninhas_0004.png
+  artifactKey: Guid(300f8070448cdb04a9f3938f51f6d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Perninhas_0004.png using Guid(300f8070448cdb04a9f3938f51f6d0b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0293a047e8ca11911a2b801dbd8ac8ba') in 0.051950 seconds
+  Import took 0.070577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Scenes/Sprites/Perninhas_0002.png
+  artifactKey: Guid(52ded26bf4163ed44a3227b54e8d9c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/Perninhas_0002.png using Guid(52ded26bf4163ed44a3227b54e8d9c08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f138d9d24dee9d45e5c510b64b4020') in 0.065656 seconds
+  Import took 0.093441 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
