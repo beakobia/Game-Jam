@@ -148,16 +148,16 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 265252499}
-  m_LocalRotation: {x: -0, y: -0, z: 0.22090243, w: 0.97529596}
+  m_LocalRotation: {x: -0, y: -0, z: 0.23669271, w: 0.97158456}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 7.37672, y: 14.845009, z: 1.2484}
   m_Children: []
   m_Father: {fileID: 1097568601}
   m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 25.524}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 27.383}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 9.83, y: 1.3300018}
+  m_AnchoredPosition: {x: 9.93, y: 4.74}
   m_SizeDelta: {x: 1, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &265252501
@@ -389,7 +389,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: -26.595}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: -10.169998, y: 1.2600021}
+  m_AnchoredPosition: {x: -11.089996, y: 3.300003}
   m_SizeDelta: {x: 1, y: 1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!61 &757976204
@@ -915,6 +915,7 @@ GameObject:
   - component: {fileID: 1659005540}
   - component: {fileID: 1659005539}
   - component: {fileID: 1659005542}
+  - component: {fileID: 1659005543}
   m_Layer: 0
   m_Name: Character
   m_TagString: Untagged
@@ -956,9 +957,9 @@ CircleCollider2D:
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.0039145118, y: 0.116381206}
   serializedVersion: 2
-  m_Radius: 0.5
+  m_Radius: 0.18683653
 --- !u!4 &1659005541
 Transform:
   m_ObjectHideFlags: 0
@@ -988,6 +989,57 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   moveSpeed: 5
   rb: {fileID: 1659005539}
+--- !u!212 &1659005543
+SpriteRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1659005538}
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_DynamicOccludee: 1
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
+  m_RayTraceProcedural: 0
+  m_RenderingLayerMask: 1
+  m_RendererPriority: 0
+  m_Materials:
+  - {fileID: 10754, guid: 0000000000000000f000000000000000, type: 0}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_StitchLightmapSeams: 1
+  m_SelectedEditorRenderState: 0
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
+  m_Sprite: {fileID: 0}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_FlipX: 0
+  m_FlipY: 0
+  m_DrawMode: 0
+  m_Size: {x: 7.2, y: 5.4}
+  m_AdaptiveModeThreshold: 0.5
+  m_SpriteTileMode: 0
+  m_WasSpriteAssigned: 0
+  m_MaskInteraction: 0
+  m_SpriteSortPoint: 0
 --- !u!4 &1844468292 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
@@ -1005,12 +1057,24 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.17020282
+      objectReference: {fileID: 0}
+    - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.17020282
+      objectReference: {fileID: 0}
+    - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.17020282
+      objectReference: {fileID: 0}
+    - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -0.001
       objectReference: {fileID: 0}
     - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.136
       objectReference: {fileID: 0}
     - target: {fileID: 9139841442228309392, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1044,6 +1108,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 9139841442228309393, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: b2876371c53e7114892dab3ebe822543, type: 3}
     - target: {fileID: 9139841442228309399, guid: a8b6af0327b105543990fbdcfc42a9e3, type: 3}
       propertyPath: m_Name
       value: Square
