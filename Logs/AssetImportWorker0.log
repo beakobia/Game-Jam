@@ -1,6 +1,6 @@
 Using pre-set license
 Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
-OS: 'Windows 10 Home Single Language; OS build 19042.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 8103 MB
+OS: 'Windows 10 Home; OS build 19042.1052; Version 2009; 64bit' Language: 'pt' Physical Memory: 16315 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
 
  COMMAND LINE ARGUMENTS:
@@ -11,98 +11,190 @@ C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
 -name
 AssetImportWorker0
 -projectPath
-C:/Users/biamb/Desktop/Desktop/Projetos/Game Jam
+C:/Users/Eizuk/OneDrive/Documentos/GitHub/Game-Jam
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-58668
-Successfully changed project path to: C:/Users/biamb/Desktop/Desktop/Projetos/Game Jam
-C:/Users/biamb/Desktop/Desktop/Projetos/Game Jam
+51171
+Successfully changed project path to: C:/Users/Eizuk/OneDrive/Documentos/GitHub/Game-Jam
+C:/Users/Eizuk/OneDrive/Documentos/GitHub/Game-Jam
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 78.53 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 32.39 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.9f1 (108be757e447)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path C:/Users/biamb/Desktop/Desktop/Projetos/Game Jam/Assets
+[Subsystems] Discovering subsystems at path C:/Users/Eizuk/OneDrive/Documentos/GitHub/Game-Jam/Assets
 GfxDevice: creating device client; threaded=0
 Direct3D:
-    Version:  Direct3D 11.0 [level 11.0]
-    Renderer: NVIDIA GeForce 830M (ID=0x1340)
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 6GB (ID=0x1c03)
     Vendor:   
-    VRAM:     2010 MB
-    Driver:   27.21.14.6647
+    VRAM:     6052 MB
+    Driver:   27.21.14.6677
 Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56960
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56144
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.010087 seconds.
+Registered in 0.001825 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 110.69 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.66 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.787 seconds
+- Completed reload, in  1.055 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002905 seconds.
+Registered in 0.000790 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 67.36 ms, found 1 plugins.
+Refreshing native plugins compatible for Editor in 33.13 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  2.439 seconds
+- Completed reload, in  0.881 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.21 seconds
-Refreshing native plugins compatible for Editor in 0.76 ms, found 1 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Unloading 1956 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 90.1 MB.
-System memory in use after: 90.0 MB.
+System memory in use before: 89.8 MB.
+System memory in use after: 89.9 MB.
 
-Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2398.
-Total: 7.117400 ms (FindLiveObjects: 0.329600 ms CreateObjectMapping: 0.105900 ms MarkObjects: 6.437300 ms  DeleteObjects: 0.242200 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scenes/Sprites/Perninhas
-  artifactKey: Guid(3ae49f35fd4362444aabcb33f4092d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sprites/Perninhas using Guid(3ae49f35fd4362444aabcb33f4092d44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14a54b60d6d2b48e1a7c1df81546d93d') in 0.019802 seconds
-  Import took 0.028935 seconds .
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 2403.
+Total: 1.835700 ms (FindLiveObjects: 0.189600 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.549100 ms  DeleteObjects: 0.055100 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 4.037765 seconds.
-  path: Assets/Scenes/Sprites/1 versão
-  artifactKey: Guid(12b03877b8ac30045891f12b2ee6869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sprites/1 versão using Guid(12b03877b8ac30045891f12b2ee6869a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c76aaca4a7e7969dfac1101859e67d9d') in 0.039039 seconds
-  Import took 0.043666 seconds .
+  path: Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs
+  artifactKey: Guid(4f231c4fb786f3946a6b90b886c48677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Packages/com.unity.ugui/Runtime/EventSystem/InputModules/StandaloneInputModule.cs using Guid(4f231c4fb786f3946a6b90b886c48677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbf756ed7403e135d4c1212bd19a3033') in 0.023296 seconds
+  Import took 0.026396 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 28.279872 seconds.
-  path: Assets/Scenes/Sprites/Pernas e Torso
-  artifactKey: Guid(53106a69519531a469e639d89fe90881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sprites/Pernas e Torso using Guid(53106a69519531a469e639d89fe90881) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d8a58e5132abb23a3c1029b7e11e55') in 0.031331 seconds
-  Import took 0.047519 seconds .
+  Time since last request: 13.598857 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Bracinho_0000.png
+  artifactKey: Guid(8594a2e5f714fab4582a38c526d21bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Bracinho_0000.png using Guid(8594a2e5f714fab4582a38c526d21bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7437023d0db42ab69c0bfc0aa1ed9a76') in 0.109260 seconds
+  Import took 0.112715 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 12.312310 seconds.
-  path: Assets/Scenes/Sprites/Pernas, Torso e Braços
-  artifactKey: Guid(0e76c19322b659342961d810560c7f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sprites/Pernas, Torso e Braços using Guid(0e76c19322b659342961d810560c7f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44070380712a8d9bfda7d2407704774b') in 0.040628 seconds
-  Import took 0.047544 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Pernoquinhas_0004.png
+  artifactKey: Guid(c727d8422a8478d40898b7bc4cfc24f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Pernoquinhas_0004.png using Guid(c727d8422a8478d40898b7bc4cfc24f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e9983a3150c45f67bf10edace691a01') in 0.013658 seconds
+  Import took 0.016737 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 0.001597 seconds.
-  path: Assets/Scenes/Sprites/Pernas, Torso e Braços
-  artifactKey: Guid(0e76c19322b659342961d810560c7f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scenes/Sprites/Pernas, Torso e Braços using Guid(0e76c19322b659342961d810560c7f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44070380712a8d9bfda7d2407704774b') in 0.021759 seconds
-  Import took 0.035242 seconds .
+  Time since last request: 0.000190 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Bracinho_0002.png
+  artifactKey: Guid(184c4cf5073df2f449dcb244f87eb7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Bracinho_0002.png using Guid(184c4cf5073df2f449dcb244f87eb7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcfe443244213bd6e90677e8df43b8d5') in 0.012456 seconds
+  Import took 0.015241 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Bracinho_0004.png
+  artifactKey: Guid(45a39e068eaf4a2419a798f4b3c7810e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Bracinho_0004.png using Guid(45a39e068eaf4a2419a798f4b3c7810e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '198c2a62b268c9fee835477aae7cf5c7') in 0.012839 seconds
+  Import took 0.015914 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Bracinho_0002.png
+  artifactKey: Guid(184c4cf5073df2f449dcb244f87eb7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Bracinho_0002.png using Guid(184c4cf5073df2f449dcb244f87eb7b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bcfe443244213bd6e90677e8df43b8d5') in 0.010725 seconds
+  Import took 0.013782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Pernoquinhas_0000.png
+  artifactKey: Guid(09f765e68537f784a879bb9a2117195b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Pernoquinhas_0000.png using Guid(09f765e68537f784a879bb9a2117195b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55df04af29a11bbe66c9ca3f40b76ea1') in 0.012950 seconds
+  Import took 0.015884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Pernoquinhas_0002.png
+  artifactKey: Guid(360ab928577c8b14789055804373d198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Pernoquinhas_0002.png using Guid(360ab928577c8b14789055804373d198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eeb2c80e7e1c7fc58b8d740ace24b00') in 0.011464 seconds
+  Import took 0.014118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Scenes/Sprites/1 versão/Bracinho_0000.png
+  artifactKey: Guid(8594a2e5f714fab4582a38c526d21bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Sprites/1 versão/Bracinho_0000.png using Guid(8594a2e5f714fab4582a38c526d21bd9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7437023d0db42ab69c0bfc0aa1ed9a76') in 0.013954 seconds
+  Import took 0.016638 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001121 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.771 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.47 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1944 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.2 MB.
+System memory in use after: 92.3 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2413.
+Total: 1.788400 ms (FindLiveObjects: 0.210900 ms CreateObjectMapping: 0.040900 ms MarkObjects: 1.520000 ms  DeleteObjects: 0.015500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000832 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.42 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.782 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1944 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.3 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2417.
+Total: 1.921200 ms (FindLiveObjects: 0.212200 ms CreateObjectMapping: 0.041100 ms MarkObjects: 1.650400 ms  DeleteObjects: 0.016400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001181 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.46 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.865 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.43 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1944 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.3 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 2421.
+Total: 2.369700 ms (FindLiveObjects: 0.437100 ms CreateObjectMapping: 0.082300 ms MarkObjects: 1.829800 ms  DeleteObjects: 0.019500 ms)
 
